@@ -1,0 +1,34 @@
+---
+  -
+    name: DEPCO
+    logo: /images/logo_ruby.jpeg
+    description: |
+      Inventory of collision auto parts, the application connects to
+      MicroSIP PoS to interact and work with its firebird database.
+  -
+    name: ContentCast
+    logo: /images/logo_ruby.jpeg
+    description: |
+      Visualize reports, html, text, audio and video through an easy
+      to configure carousel, then stream it to monitors in your office or
+      business.
+  -
+    name: MedicApp
+    logo: /images/logo_ruby.jpeg
+    description: |
+      Manage your buy/sell used autos business with client records,
+      IOUs, reports, user profiles and receive notifications for due
+      payments.
+  -
+    name: Autos
+    logo: /images/logo_ruby.jpeg
+    description: |
+      Manage your buy/sell used autos business with client records, IOUs,
+      reports, user profiles and receive notifications for due payments.
+  -
+    name: TwitMapr
+    logo: /images/logo_ruby.jpeg
+    description: |
+      Find tweets around the world by panning and zooming in google maps,
+      filter them by user, keyword or hashtag.
+  

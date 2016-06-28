@@ -1,0 +1,11 @@
+---
+  -
+    when: 2013 - 2015
+    institution_name: Universidad Anáhuac
+    institution_logo: /images/logo_anahuac.jpeg
+    title: MBA - Alta Dirección y Negocios Internacionales
+  -
+    when: 2003 - 2009
+    institution_name: Universidad Anáhuac
+    institution_logo: /images/logo_anahuac.jpeg
+    title: Systems Engineer

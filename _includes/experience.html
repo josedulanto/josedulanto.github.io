@@ -1,0 +1,31 @@
+<section id="experience"
+  class="experience background dark image quarter-opacity"
+  style="background-image:url(/images/bg_tools.jpg)">
+  <div class="wrapper">
+    <div class="clearfix description">
+      <h2>Experience</h2>
+      <p>
+        Explore my professional history and get to know the companies I worked
+        at and the roles and responsibilities I've been assigned.
+      </p>
+    </div>
+    <div class="clearfix content expandable">
+      {% for job in site.data.jobs %}
+        <div class="clearfix item collapsed">
+          <div class="base">
+            <div class="image">
+              <img src="{{ job.employer_logo }}">
+            </div>
+            <div class="info">
+              <small>{{ job.when }}</small>
+              <h3>{{ job.position }}</h3>
+              <h4>{{ job.employer_name }}</h4>
+            </div>
+            <a class="expand-icon"></a>
+          </div>
+          <span class="item-description">{{ job.description }}</span>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,21 @@
+<section id="education" class="education dark image quarter-opacity">
+  <div class="wrapper">
+    <div class="clearfix description">
+      <h2>Education</h2>
+      <p>
+        See where I spent time studying and gained early knowledge to prepare
+        for my professional life.
+      </p>
+    </div>
+    <div class="clearfix content one-col">
+      {% for education in site.data.education %}
+        <div class="school clearfix">
+          <img src="{{ education.institution_logo }}">
+          <h3>{{ education.institution_name }}</h3>
+          <h4>{{ education.title }}</h4>
+          <small>{{ education.when }}</small>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
