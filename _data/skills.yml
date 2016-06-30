@@ -1,27 +1,20 @@
 ---
-  - Rails
   - Ruby
-  - Google API
-  - Facebook API
-  - Twitter API
-  - Compass
-  - Bootstrap
-  - AWS
+  - Rails
+  - Capybara/RSpec
+  - API
+  - RVM/RBENV
   - Heroku
-  - Github
-  - RVM
-  - CoffeeScript
-  - MVC
-  - CSS
-  - SASS
-  - HAML
+  - Github/BitBucket
+  - AWS EC2/S3
+  - Docker/Vagrant
+  - TravisCI/Jenkins
+  - Bootstrap/SemanticUI
+  - CSS/SASS/SCSS
   - MongoDB
+  - Redis
   - MySQL
   - PostgreSQL
-  - TDD
-  - Capybara
-  - RSpec
+  - JS/CoffeeScript
   - jQuery
-  - JavaScript
-  - Ionic
-  - MeteorJS
+  - Jekyll/Middleman
