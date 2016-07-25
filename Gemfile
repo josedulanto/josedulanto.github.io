@@ -5,3 +5,5 @@ group :jekyll_plugins do
   gem 'jekyll-github-metadata'
   gem 'kramdown'
 end
+
+ruby '2.3.1'
