@@ -1,63 +1,84 @@
 ---
   -
-    when: 2013 - Current
+    when: 2016 - Today
+    position: Ruby Developer
+    employer_logo: /images/logo_kwantec.jpg
+    employer_name: Kwantec
+    description: |
+      Agralogics is a collaborative platform developed in RoR/Angular which
+      enables farmers manage their farms, crops and activities around growing,
+      processing and selling food. I'm in charge of developing features for the
+      Ruby backend, manage the AWS resources and lead our team of four cool guys
+      in Mexico to materialize our skills in tangible benefits for our client.
+  -
+    when: 2015 - 2016
+    position: Ruby Developer
+    employer_logo: /images/logo_bairesdev.jpg
+    employer_name: BairesDev
+    description: |
+      iSeatz has a complex set of APIs (OneView platform) which gathers
+      information from world leading air, hotel, car and activity providers
+      like Thrifty, Hertz, Dhisco, etc for digestion, customization, business
+      rules application and finally deliver it to their clients. It is a huge
+      platform, I worked with APIs which had to apply business rules, I also
+      worked with connectors that received raw information from providers and
+      had to be translated in data we could use.
+  -
+    when: 2013 - 2015
     position: Ruby Full Stack Developer
-    employer_logo: /images/logo_thg.jpeg
+    employer_logo: /images/logo_thg.jpg
     employer_name: The Hybrid Group
     description: |
-      I’ve been working with important key clients for THG, and also in its
-      internal projects which range from a sports blogging network, off
-      market real estate listings, a kanban methodology based project
-      management tool, the ruby community in México, etc. All of them have
-      given me the knowledge and skills to better listen, understand and
-      teamwork with clients to meet their expectations.
+      I worked with important key clients for the company like FanVSFan (a
+      blogging network for sports fans), Offmarket (real estate platform),
+      Kanbanpad (a kanban methodology based project management platform),
+      TechScene (a hub for ruby communities in México).
+
   -
     when: 2014 - 2015
-    position: Senior Ruby Developer
-    employer_logo: /images/logo_diverza.jpeg
+    position: Ruby Developer
+    employer_logo: /images/logo_diverza.jpg
     employer_name: Diverza Información y Análisis, SAPI de CV
     description: |
       With several small APIs already written in Java, our team developed a
-      central application in Ruby On Rails which connected those core APIs
-      to handle the flow between them resulting in faster response times,
-      increased availability and secure transactions to manage large
-      amounts of commercial invoices for major companies in México.
+      central application in Ruby On Rails which connected those core APIs to
+      handle the flow between them resulting in faster response times, increased
+      availability and secure transactions to manage large amounts of commercial
+      invoices for major companies in México.
   -
     when: 2015 - 2015
-    position: Senior Ruby Developer
-    employer_logo: /images/logo_totaltech.jpeg
+    position: Ruby Developer
+    employer_logo: /images/logo_totaltech.jpg
     employer_name: Totaltech
     description: |
-      A SMS gateway with Twilio integration and workflows driven by MSSQL
-      database triggers was developed to increase the services and revenue
-      for a company in Puerto Rico.
+      For three months we were developing a SMS gateway with Twilio integration
+      and workflows driven by MSSQL database triggers was developed to increase
+      the services and revenue for a company in Puerto Rico.
   -
-    when: 2011 - Current
+    when: 2011 - 2013
     position: Freelancing
-    employer_logo: /images/logo_ruby.jpeg
-    employer_name: Ruby Full Stack Developer
+    employer_logo: /images/logo_ruby.jpg
+    employer_name: Ruby Developer
     description: |
-      From the ground up I’ve been doing freelance jobs for
-      professionals, startups and small businesses of all kind of
-      industries, mostly from Latin America.
+      From the ground up I’ve been doing freelance jobs for professionals,
+      startups and small businesses of all kind of industries, mostly from Latin
+      America.
   -
     when: 2009 - 2011
     position: Website Specialist
-    employer_logo: /images/logo_anahuac.jpeg
+    employer_logo: /images/logo_anahuac.jpg
     employer_name: Anáhuac University
     description: |
-      I was responsible for the main site of the University and its
-      schools websites, I also worked with the Anahuac Network of
-      Universities in México to implement “Luminis“, which is an
-      educational platform to help alumni and professors
-      collaborate in a closed academic environment.
+      I was responsible for the main site of the University and its schools
+      websites, I also worked with the Anahuac Network of Universities in México
+      to implement “Luminis“, which is an educational platform to help alumni
+      and professors collaborate in a closed academic environment.
   -
     when: 2008 - 2009
     position: Ruby Developer
-    employer_logo: /images/logo_icy.jpeg
+    employer_logo: /images/logo_icy.jpg
     employer_name: Cultural Institute of Yucatán
     description: |
-      Help-Link is a help desk aimed to work with inventories,
-      issue tracking and task assignment which gave the IT
-      department the tools they needed to manage resources more
-      efficiently.
+      Help-Link is a help desk aimed to work with inventories, issue tracking
+      and task assignment which gave the IT department the tools they needed to
+      manage resources more efficiently.
