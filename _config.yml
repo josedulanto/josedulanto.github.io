@@ -9,12 +9,8 @@
 title: José Dulanto
 email: jose@dulan.to
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a Ruby developer with five years of expertise, I am able to write clean
-  Ruby On Rails applications from scratch to deploy. This is my passion and I’m
-  completely committed to fulfill all needs to achieve client satisfaction no
-  matter what. When I’m not writing code alone or with an awesome distributed
-  team, I enjoy walking my dog Dasha, hit the gym, spend time with my family
-  and hang out with friends. I am here to help you code the next big thing!
+  I'm a Ruby developer with 5 years on the field. I am here to help you code the
+  next big thing! P.S. I’m also a human, let’s talk.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jose.dulan.to" # the base hostname & protocol for your site
 repository: josedulanto/josedulanto.github.io
