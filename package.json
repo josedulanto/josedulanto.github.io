@@ -2,7 +2,7 @@
   "name": "josedulanto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jose.dulan.to/josedulanto",
+  "homepage": "https://josedulanto.github.io",
   "dependencies": {
     "husky": "^0.14.3",
     "material-ui": "^1.0.0-beta.35",
@@ -19,12 +19,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "build-babel": "babel src/ -d lib/",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject",
     "flow": "flow",
     "glow": "glow --watch",
     "lint:css": "stylelint './src/**/*.js'",
     "precommit": "lint-staged",
+    "predeploy": "npm run build",
     "prepublish": "yarn run build",
     "test": "react-scripts test --env=jsdom"
   },
